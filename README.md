@@ -1,4 +1,4 @@
-# Configurando-acessibilidade-do-PCD-deficiência-auditiva
+# Configurando-acessibilidade-do-PCD-
 Teste para acessar conteúdos para melhorar a acessibilidade de pessoas com deficiência auditiva .
 Basta clicar nos línks abaixo.
 Lembrando que é um teste e será melhorado , obrigado por visualizarem !
